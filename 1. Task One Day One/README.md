@@ -1,10 +1,12 @@
 
-Prerequisite: Knowledge on python programming
+                Prerequisite: Knowledge on python programming
 
-Requirements: Jupyter Notebook (jupyter.org)   or
-              
-Google Colaboratory (colab.research.google.com)
+                Requirements: Jupyter Notebook (jupyter.org)   
+                
+                
+                                    or   
+                                    
+                                    
+                              Google Colaboratory (colab.research.google.com)
 
-                     
-            
-Python Version Used: 3.9
+                Python Version Used: 3.9

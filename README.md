@@ -5,5 +5,5 @@ Collaborative effort by Group 28 Members during a 3 days hackathon held on July 
 # Group Members
 1. Dedan Okware
 2. Cindy Ngugi
-3. Francline Otieno
+3. Francline Omondi
 4. Andrew Kim

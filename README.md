@@ -1,4 +1,4 @@
-# PowerLearnProject--Hackathon--Group-28
+# PowerLearnProject--Python--Hackathon--Group-28
 
 Collaborative effort by Group 28 Members during a 3 days hackathon held on July 2022 PLP Python Hackathon
 
